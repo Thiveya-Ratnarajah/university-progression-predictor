@@ -1,4 +1,4 @@
-# University Progression Prediction
+# University Progression Predictor
 
 A Python program to predict student progression outcomes based on their credit distribution in **Pass**, **Defer**, and **Fail** categories. This tool provides tailored functionalities for students and staff, including input validation, progression prediction, and histogram visualization for staff members.
 
@@ -18,7 +18,7 @@ A Python program to predict student progression outcomes based on their credit d
 
 - **Histogram Visualization (for Staff Only)**: Displays a histogram of progression outcomes using `graphics.py`.
 
-- **Data Storage (Optional)**: The program can store progression data in lists or save it to a text file for further analysis.
+- **Data Storage**: The program can store progression data in lists or save it to a text file for further analysis.
 
 ## Requirements
 
