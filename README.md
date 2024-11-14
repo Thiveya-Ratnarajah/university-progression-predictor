@@ -29,7 +29,7 @@ A Python program to predict student progression outcomes based on their credit d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/university-progression-prediction.git
+   git clone https://github.com/Thiveya-Ratnarajah/university-progression-predictor.git
 
 2. Navigate to the project directory:
 
