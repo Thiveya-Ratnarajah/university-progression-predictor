@@ -33,9 +33,9 @@ A Python program to predict student progression outcomes based on their credit d
 
 2. Navigate to the project directory:
 
-   ```cd university-progression-prediction
-   Ensure you have Python 3.x installed.
-
+   ```
+   cd university-progression-prediction
+  ** **Ensure you have Python 3.x installed.** **
 ## Usage
 
 **Run the program:**
